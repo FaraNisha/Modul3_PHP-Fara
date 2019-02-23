@@ -16,3 +16,8 @@ Latihan 5
 
 Latihan 6
 ![alt text](https://github.com/FaraNisha/Modul3_PHP-Fara/blob/master/Hasil%20Latihan%206.PNG)
+
+Hasil Praktikum
+![alt text](https://github.com/FaraNisha/Modul3_PHP-Fara/blob/master/Hasil%201.PNG)
+![alt text](https://github.com/FaraNisha/Modul3_PHP-Fara/blob/master/Hasil%202.PNG)
+![alt text](https://github.com/FaraNisha/Modul3_PHP-Fara/blob/master/Hasil%203.PNG)
